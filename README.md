@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Khushi Jain</h1>
-<h3 align="center">I’m currently a pre-final year, Software Undergraduate at University of Queensland, Brisbane, Australia.</h3>
+<h3 align="center">Software Undergraduate at University of Queensland, Brisbane, Australia.</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushijain0302&label=Profile%20views&color=0e75b6&style=flat" alt="khushijain0302" /> </p>
 
-- 🌱 I’m currently learning **HCI and Haskell**
+- I’m in penultimate year of **Software Engineering.**
+
+- I’m currently learning **full stack web development.**
+
+- I've keen interest in **Artificial Intelligence and Machine Learning.**
+
+- I’m currently learning **HCI and Haskell**
+
+- I’m looking for opportunities to collaborate on projects on **web apps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
